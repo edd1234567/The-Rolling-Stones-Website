@@ -13,7 +13,7 @@
     
     <p>The Rolling Stones are an English rock band formed in London in 1962. The first stable line-up consisted of Brian Jones, Mick Jagger, Keith Richards, Bill Wyman, Charlie Watts, and Ian Stewart.</p>
     
-    <table bgcolor="green" bordercolor="yellow" align="center" border="5" cellspacing="15" cellpadding="5">
+    <table bgcolor="red" bordercolor="yellow" align="center" border="5" cellspacing="15" cellpadding="5">
       <tr>
         <td>Album Titles</td>
         <td>Album cover</td>
