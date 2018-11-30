@@ -39,7 +39,7 @@
       
     </table>
     <h3>More Info About Albums</h3><br>
-    <a href="\ https://edd1234567.github.io/Rolling-Stones-login/">Log In</a>
+    <a href="\login.html">Log In</a>
     <h4>THANK YOU</h4>
   </body>
   
